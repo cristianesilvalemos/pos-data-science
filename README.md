@@ -16,4 +16,4 @@
 - [Aula 08 (Variável Aleatória - Curva de Gauss - Distribuição normal - Distribuiçao da média - Erro padrão da média)](https://github.com/crisslemoss/data-science-notebooks/blob/master/aula08_pratica.ipynb)
 - [Exemplo (uso biblioteca folium)](https://github.com/crisslemoss/data-science-notebooks/blob/master/folium.ipynb)
 - [Exemplo (web scraping)](https://github.com/crisslemoss/data-science-notebooks/blob/master/webscraper_wikipedia_astronautas.ipynb)
-- [Atividade Extra (folium e web scraping)](https://github.com/crisslemoss/data-science-notebooks/blob/master/aula08_extra.ipynb)
+- [Atividade Extra - (folium e web scraping - Focos de incendio INEP)](https://github.com/crisslemoss/data-science-notebooks/blob/master/aula08_extra.ipynb)
